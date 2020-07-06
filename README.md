@@ -35,7 +35,7 @@ Many students that took this course left many comments addressing this issue. Li
 #### Technologies Used:
 - HTML
 - CSS
-- Atom - Code Editor
+- <a href="https://atom.io/">Atom</a>
 ___
 
 ## Usage
