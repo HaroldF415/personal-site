@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap');
+
+/* This line of code imports a custom font from GoogleFonts Inconsolata - medium 500 */
+img {
+  width: 200px;
+}
+
+body {
+  background-color: #f7f7f7;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #a5a8a8;
+  border-width: 0.25em;
+  width: 5%;
+  /* border-style: none;
+  border-top-style: dotted; */
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #45A29E;
+}
